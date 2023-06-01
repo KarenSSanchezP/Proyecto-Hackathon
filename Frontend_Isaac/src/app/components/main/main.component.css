@@ -1,0 +1,28 @@
+.asignature-card{
+  margin: 15px;
+  border-radius: 15px;
+  background-color: #0079FF;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-btn{
+  background-color: #FF6000;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 14px
+}
+
+.asignature-icon{
+  border: 1px solid black;
+  font-size: 55px;
+  height:inherit;
+  margin: 0px;
+  padding: 10px;
+  width: 20%;
+  border-radius: 15px;
+  background-color: #99A98F;
+}

@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { faChalkboard } from '@fortawesome/free-solid-svg-icons';
+import { faCalculator, faMicroscope, faEarthAmericas, faBook } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'main',
@@ -8,23 +8,26 @@ import { faChalkboard } from '@fortawesome/free-solid-svg-icons';
 })
 export class MainComponent {
   btnName = 'Contenido';
-  faCoffee = faChalkboard;
   asignatureItems: any[] = [
     {
       id: 0,
       title: 'Matemáticas',
+      icon: faCalculator,
     },
     {
       id: 1,
       title: 'Ciencias',
+      icon: faMicroscope,
     },
     {
       id: 2,
       title: 'Sociales',
+      icon: faEarthAmericas,
     },
     {
       id: 3,
       title: 'Lenguaje',
+      icon: faBook,
     },
   ];
 

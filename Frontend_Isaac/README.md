@@ -14,5 +14,5 @@ Parte Frontend del proyecto para acceso a la educación del Hackaton creado en A
 
 ## Layout Principal (June 01, 02)
 
-HT-01: Realizar la creción del proyecto con el framework Frontend Angular y hacer el diseño inicial del Layout.
-HT-02: Completar diseño inicial de Layout.
+- HT-01: Realizar la creción del proyecto con el framework Frontend Angular y hacer el diseño inicial del Layout.
+- HT-02: Completar diseño inicial de Layout.
